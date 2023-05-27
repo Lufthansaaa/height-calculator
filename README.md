@@ -5,7 +5,7 @@ Hi 👋, This is a simple C# height calculator for the easiest height calculatio
 
 ## Requirements
 
-To run the application, you will need [.NET 7.0](https://dotnet.microsoft.com/en-us/download), and a system with atleas 1 KB of ram.
+To run the application, you will need [.NET 7.0](https://dotnet.microsoft.com/en-us/download), and a system with atleast 1 KB of ram.
 
 ## Installation
 
