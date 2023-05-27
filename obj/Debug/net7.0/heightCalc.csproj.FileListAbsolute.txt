@@ -1,0 +1,15 @@
+/home/jay/Documents/CODE/C#/heightCalc/bin/Debug/net7.0/heightCalc
+/home/jay/Documents/CODE/C#/heightCalc/bin/Debug/net7.0/heightCalc.deps.json
+/home/jay/Documents/CODE/C#/heightCalc/bin/Debug/net7.0/heightCalc.runtimeconfig.json
+/home/jay/Documents/CODE/C#/heightCalc/bin/Debug/net7.0/heightCalc.dll
+/home/jay/Documents/CODE/C#/heightCalc/bin/Debug/net7.0/heightCalc.pdb
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.csproj.AssemblyReference.cache
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.AssemblyInfoInputs.cache
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.AssemblyInfo.cs
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.csproj.CoreCompileInputs.cache
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.dll
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/refint/heightCalc.dll
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.pdb
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/heightCalc.genruntimeconfig.cache
+/home/jay/Documents/CODE/C#/heightCalc/obj/Debug/net7.0/ref/heightCalc.dll
